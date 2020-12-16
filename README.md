@@ -1,6 +1,8 @@
 # PyCitySchools Data Analysis
 In this challenge I created a pandas script using mock school data (schools_complete.csv & students_complete.csv, "PyCitySchools/Resources") to analylze district-wide standardized test results. In this analysis I will find: an overall district summary, a summary of test results by individual school, the top and bottom 5 performing schools, math scores by grade, reading scores by grade, scores based on average budget per student, scores based on school size, and scores based on school type.
 
+**The code (main.ipynb) can be found in the folder "PyCitySchools".**
+
 # District Summary
 Create a high level snapshot (in table form) of the district's key metrics, including:
 
