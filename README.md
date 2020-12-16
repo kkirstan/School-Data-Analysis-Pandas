@@ -3,6 +3,8 @@ In this challenge I created a pandas script using mock school data (schools_comp
 
 **The code (main.ipynb) can be found in the folder "PyCitySchools".**
 
+**The write-up of observable trends (PyCitySchools_Analysis.docx) can also be found in "PyCitySchools".**
+
 # District Summary
 Create a high level snapshot (in table form) of the district's key metrics, including:
 
